@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Adnan_1122",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
-    "type": "offline"
+    "username": "Adnan_1122",
+    "password": "hahaha",
+    "type": "online"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "McProPlayersSRVR.aternos.me",
+    "port": 61323,
     "version": "",
     "try-creative": false
   },
